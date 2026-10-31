@@ -1,6 +1,6 @@
 # Hi, I'm Rashad
 
-**Master's Student in Computer Science | Aspiring Data Engineer | Python & SQL Developer**
+**Master's Student in Computer Science | Data Engineer | Python & SQL Developer**
 
 I'm a Computer Science master's student at the **University of Passau, Germany**, with a background in software development and backend engineering.
 
@@ -18,7 +18,7 @@ I'm currently focused on building reliable, scalable data systems and strengthen
 
 **Languages & Backend**
 
-Python · SQL · Java · C/C++ · FastAPI · Django · REST APIs
+Python · SQL · FastAPI · Flask · Django · REST APIs
 
 **Data Engineering**
 
