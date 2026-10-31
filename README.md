@@ -32,30 +32,10 @@ PostgreSQL · MySQL · Apache Iceberg · MinIO
 
 Docker · Git · Linux · GitHub Actions
 
-## Featured Projects
-
-### Automotive Telemetry Data Platform
-A data platform that processes synthetic automotive sensor data, performs data validation, stores structured records, and exposes analytical endpoints.
-
-**Technologies:** Python, SQL, PostgreSQL, FastAPI, Docker
-
-### Football Data Engineering Platform
-A data engineering project focused on ingesting, processing, and analyzing real football data using modern data platform technologies.
-
-**Technologies:** Python, SQL, PySpark, Apache Iceberg, Trino, Airflow
-
-## Currently Learning
-
-- Distributed data processing
-- Data lakehouse architecture
-- Data orchestration and workflow management
-- Data quality and pipeline reliability
-- Cloud data engineering
-
 ## Connect With Me
 
-- **LinkedIn:** [Add your LinkedIn URL](https://www.linkedin.com/)
-- **Email:** Add your professional email
+- **LinkedIn:** https://www.linkedin.com/in/rashadg/
+- **Email:** rashad.gasimli10@mail.com
 
 ---
 
