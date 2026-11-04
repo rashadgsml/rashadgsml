@@ -35,7 +35,7 @@ Docker · Git · Linux · GitHub Actions
 ## Connect With Me
 
 - **LinkedIn:** https://www.linkedin.com/in/rashadg/
-- **Email:** rashad.gasimli10@mail.com
+- **Email:** rashad.gasimli10@gmail.com
 
 ---
 
